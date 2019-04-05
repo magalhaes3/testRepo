@@ -1,4 +1,8 @@
 body{
-  background-color: #ddccaa;
-  font-family: Arial;
+  background-color: #ccaf76;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+  font-family: 'Courier New', Courier, monospace
 }
